@@ -1,3 +1,5 @@
+![PHP](/imgs/desarrollo-web.jpg)
+
 # Desarrolla software de aplicación Web con almacenamiento persistente de datos
 
 * Submódulo 1 Construye bases de datos para aplicaciones Web
