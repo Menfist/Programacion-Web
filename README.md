@@ -22,7 +22,7 @@ Finalmente, daremos una introducción a los frameworks web y buenas prácticas d
 + Conocimiento básico de informática y manejo de computadoras.
 + Conocimientos básicos de programación (variables, ciclos, estructuras de datos, lógica básica)
 
-# Proyectos de Apoyo
+# Recursos de Apoyo
 
 | Proyecto | Descripción |
 | :---: | :--- |
