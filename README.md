@@ -22,3 +22,10 @@ Finalmente, daremos una introducción a los frameworks web y buenas prácticas d
 + Conocimiento básico de informática y manejo de computadoras.
 + Conocimientos básicos de programación (variables, ciclos, estructuras de datos, lógica básica)
 
+# Proyectos de Apoyo
+
+| Proyecto | Descripción |
+| :---: | :--- |
+| [Proyecto 1](https://github.com/BegoRodriguez/ejemploPeliculasSQL.git)| Muestra una aplicación web, donde se muestra un CRUD básico|
+| [Ejercicios](https://github.com/JustinNQ/php-ejemplos.git) |En este repositorio podrás encontrar ejemplos en donde podrás prácticas y reforzar conocimientos sobre los conceptos básicos de programación con PHP|
+| [Mysql](https://dev.mysql.com/doc/refman/8.4/en/) | Manual de referencia de MySql|
