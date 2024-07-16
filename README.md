@@ -7,7 +7,7 @@
 
 # Breve descripción
 Este curso de **programación en PHP** está diseñado para llevar a los estudiantes desde los conceptos más básicos hasta la creación de aplicaciones web completas y funcionales. A lo largo del curso, se presentarán ejemplos prácticos y proyectos para que los estudiantes apliquen lo aprendido en un entorno de desarrollo real.
-Continuaremos explorando la integración de bases de datos MySQL, donde aprenderás a conectarte y realizar consultas de manera segura. La Programación Orientada a Objetos (POO) será otro punto clave, y te proporcionaremos las herramientas necesarias para escribir código modular y eficiente.
+Continuaremos explorando la integración de bases de datos MySQL, donde aprenderás a conectarte y realizar consultas de manera segura. La Programación Orientada a Objetos (POO) será otro punto clave, y te proporcionaremos las herramientas necesarias para escribir código modular y eficiente. Posteriormente aprenderemos a implimentar el patron de diseño MVC (Modelo Vista Controlador) comúnmente utilizado para implementar interfaces de usuario, datos y lógica de control.
 Finalmente, daremos una introducción a los frameworks web y buenas prácticas de desarrollo, con un enfoque en el popular framework Laravel.
 
 # ¿Qué vas a aprender en el SUBMÓDULO 2?
@@ -18,6 +18,7 @@ Finalmente, daremos una introducción a los frameworks web y buenas prácticas d
 - Aplicar los principios de la Programación Orientada a Objetos (POO) en el desarrollo de aplicaciones web.
 - Desarrollar una aplicación web básica utilizando PHP y MySQL.
 - Manejar archivos y excepciones de manera efectiva en sus aplicaciones.
+- Aplicar patrones en el diseño de software.
 
 # Requisitos previos
 
@@ -28,6 +29,10 @@ Finalmente, daremos una introducción a los frameworks web y buenas prácticas d
 
 | Proyecto | Descripción |
 | :---: | :--- |
-| [Proyecto 1](https://github.com/BegoRodriguez/ejemploPeliculasSQL.git)| Muestra una aplicación web, donde se muestra un CRUD básico|
+| [Proyecto 1](https://github.com/BegoRodriguez/ejemploPeliculasSQL.git)| Muestra una aplicación web, donde se muestra un CRUD básico sin patron de diseño|
+| [Proyecto 2](https://github.com/marcosrivasr/expense-app.git)| Muestra una aplicación web, donde se muestra un CRUD básico aplicando el patron de diseño MVC|
 | [Ejercicios](https://github.com/JustinNQ/php-ejemplos.git) |En este repositorio podrás encontrar ejemplos en donde podrás prácticas y reforzar conocimientos sobre los conceptos básicos de programación con PHP|
 | [Mysql](https://dev.mysql.com/doc/refman/8.4/en/) | Manual de referencia de MySql|
+
+# Importante
+El proyecto que se presenta no es de mi autoria se descargo de un repositorio publico y es el mismo que esta en la tabla nombrado como proyecto 2.
